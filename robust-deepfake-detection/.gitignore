@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.h5
+*.keras
+rvf10k/
+data/
+datasets/
+outputs/
+results/raw/
+.DS_Store
